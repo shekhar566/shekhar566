@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shekhar566
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Java/JavaScprit
 - 📫 How to reach me - shekharchaudhary870950@gmail.com
 
 <!---
